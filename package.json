@@ -1,0 +1,51 @@
+{
+  "name": "charles-404-v2",
+  "version": "0.1.1",
+  "dependencies": {
+    "goodmeme-gm": "^0.0.1",
+    "charles-404":"^0.1.0",
+    "charles-404-luckydraw":"^0.1.0",
+    "beeteetee-landing":"0.1.0",
+    "goodmeme-factory": "^0.0.1",
+    "goodmeme-controler": "^0.0.1",
+    "@btc-200k/btc-200k-js-tokens": "^0.0.1",
+    "@btc-200k/js-tokens": "^1.0.1",
+    "btc-200k-react": "^0.1.0",
+    "btc-200k-travel-api":"^0.1.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unicorn-0101/404-v2.git"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
